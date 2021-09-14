@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="UiBlob" style="bottom: 13px; height: 264px; position: absolute; width: 235px; left: 16px; background-color: rgba(124, 141, 166, 255); border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-left-color: rgba(19, 41, 79, 255); border-right-color: rgba(19, 41, 79, 255); border-top-color: rgba(19, 41, 79, 255); border-bottom-color: rgba(19, 41, 79, 255); border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px;">
+        <ui:VisualElement style="height: 34px; width: 207px; top: 10px; left: 10px; flex-direction: row; border-top-left-radius: 10px; border-bottom-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; background-color: rgba(87, 133, 229, 255); border-left-color: rgba(50, 55, 135, 255); border-right-color: rgba(50, 55, 135, 255); border-top-color: rgba(50, 55, 135, 255); border-bottom-color: rgba(50, 55, 135, 255); border-left-width: 2px; border-right-width: 2px; border-top-width: 2px; border-bottom-width: 2px;">
+            <ui:Label text="Health: " display-tooltip-when-elided="true" name="healt-label" />
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="health-text" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
